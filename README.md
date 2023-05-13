@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bsse1315@iit.du.ac.bd**
 
-- ⚡ Fun fact **I am a software engineering student but have interest of learning about human psychology :)**
+- ⚡ Fun fact **I am a software engineering student but have a lot interest to learn about human psychology :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
