@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abir Ashab Niloy</h1>
-<h3 align="center">A passionate software engineering student from IIT,University of Dhaka.I have completed my first ever project which is implementing machine learning algorithms in c/c++.Also I am doing competitive programming to increase my problem solving capability.I like to solve a problem in different way.Additionaly currently I got interest in cyber security.And working on this as well.</h3>
+<h3 align="center">A passionate software engineering student from IIT,University of Dhaka.I have completed my first ever project on ML.I have implemented five machine learning algorithm in c/c++.Also I am doing competitive programming to increase my problem solving capability.I like to solve and think a problem in different ways.Additionaly currently I got interest in cyber security and working on this as well.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abir-ashab&label=Profile%20views&color=0e75b6&style=flat" alt="abir-ashab" /> </p>
 
