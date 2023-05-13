@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abir Ashab Niloy</h1>
-<h3 align="center">A passionate software engineering student from IIT,University of Dhakaa</h3>
+<h3 align="center">A passionate software engineering student from IIT,University of Dhaka.I have completed my first ever project which is implementing machine learning algorithms in c/c++.Also I am doing competitive programming to increase my problem solving capability.I like to solve a problem in different way.Additionaly currently I got interest in cyber security.And working on this as well.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abir-ashab&label=Profile%20views&color=0e75b6&style=flat" alt="abir-ashab" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/Abir-Ashab/SPL-1)
 
-- 🌱 I’m currently learning **Competitive Programming,Cyber Security and Ethical Hacking**
+- 🌱 I’m currently learning **Competitive Programming,Cyber Security**
 
 - 👯 I’m looking to collaborate on **Cyber Security**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bsse1315@iit.du.ac.bd**
 
-- ⚡ Fun fact **I am a software engineering student but have a lot interest to learn about human psychology :)**
+- ⚡ Fun fact **I am a software engineering student but have a lot interest to learn about human psychology :3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
