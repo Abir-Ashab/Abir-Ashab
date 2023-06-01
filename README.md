@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abir-ashab" alt="abir-ashab" /></a> </p>
 
-- 🔭 I’m currently working on [Machine Learning](https://github.com/Abir-Ashab/SPL-1)
+- 🔭 I have worked on [Machine Learning](https://github.com/Abir-Ashab/SPL-1)
 
-- 🌱 I’m currently learning **Competitive Programming,Cyber Security**
+- 🌱 I’m currently learning **Competitive Programming**
 
-- 👯 I’m looking to collaborate on **Cyber Security**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 💬 Ask me about **Competitive Programming**
 
