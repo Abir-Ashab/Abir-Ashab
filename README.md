@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abir-ashab" alt="abir-ashab" /></a> </p>
 
-- 🔭 I have worked on [Machine Learning](https://github.com/Abir-Ashab/SPL-1)
+- 🔭 I have worked on [**Machine Learning**](https://github.com/Abir-Ashab/SPL-1)
 
 - 🌱 I’m currently learning **Competitive Programming**
 
