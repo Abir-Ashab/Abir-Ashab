@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abir Ashab Niloy</h1>
-<h3 align="center">A passionate software engineering student from IIT,University of Dhaka.I completed my first ever project on ML.I implemented five machine learning algorithms in c/c++.Also I am doing competitive programming to increase my problem solving capability.I like to solve and think a problem in different ways.Additionaly I got interest in web development and working on it as well.</h3>
+<h3 align="center">A passionate software engineering student from IIT, University of Dhaka. I am passionate about exploring various aspects of computer science, also getting dopamine from the excitement of problem-solving and the joy of learning new things. My primary interests lie in Software Engineering, Software Security, and Natural Language Processing (NLP) where I am eager to dive deeper and make things more efficient. Also as a MERN developer, I try to stay updated with the latest technologies and kinds of stuff. I am currently seeking a research internship focused on NLP or Software Security to further expand my skills </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abir-ashab&label=Profile%20views&color=0e75b6&style=flat" alt="abir-ashab" /> </p>
 
