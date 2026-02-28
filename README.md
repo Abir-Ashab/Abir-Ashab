@@ -4,23 +4,22 @@
 <p align="center">
   <a href="https://abir-ashab.github.io">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/abir-ashab-niloy">💼 LinkedIn</a> •
-  <a href="https://github.com/Abir-Ashab">📂 GitHub</a>
 </p>
 
 ---
 
 🎓 **About Me**
 
-I'm a passionate Software Engineering student at the Institute of Information Technology, University of Dhaka. I love building innovative software solutions that blend AI, web technologies, and user-centric design. My interests lie at the intersection of **Natural Language Processing**, **Software Security**, and **Web Development**.
+I'm a passionate Software Engineering student at the Institute of Information Technology, University of Dhaka. I love building innovative software solutions that blend AI, web technologies, and user-centric design. My interests lie at the intersection of **Software Security**, and **Software Development**.
 
-🧑‍💻 I’ve gained real-world experience through internships at [Cefalo](https://www.cefalo.com/en) and [Xpeedlab](https://xpeedlab.tech), where I developed RESTful services, built full-stack applications, and contributed to real products. I also briefly interned at **Research Expert**, Australia, where I explored academic research methodologies.
+🧑‍💻 I’ve gained real-world experience through internships at [Cefalo](https://www.cefalo.com/en) and [Xpeedlab](https://xpeedlab.tech), where I developed RESTful services, built full-stack applications, and contributed to real products.
 
 ---
 
 🚀 **Technical Stack & Tools**
 
 - **Languages:** JavaScript, Python, Java, C++
-- **Frameworks & Libraries:** React, Express.js, Node.js, Tailwind CSS, TensorFlow, PyTorch
+- **Frameworks & Libraries:** Next, Nest, React, Express.js, Node.js, Tailwind CSS, TensorFlow, PyTorch
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Dev Tools:** Docker, Git, GitHub, Postman, Jupyter, Firebase
 - **Other Skills:** NLP, LLM Fine-Tuning, Penetration Testing, OCR, Functional Testing, Automated Testing
@@ -56,7 +55,6 @@ I'm a passionate Software Engineering student at the Institute of Information Te
 
 - 📧 Email: bsse1315@iit.du.ac.bd  
 - 🌍 Portfolio: [abir-ashab.github.io](https://abir-ashab.github.io)  
-- 🐙 GitHub: [github.com/Abir-Ashab](https://github.com/Abir-Ashab)  
 - 🔗 LinkedIn: [linkedin.com/in/abir-ashab-niloy](https://linkedin.com/in/abir-ashab-niloy)
 
 ---
