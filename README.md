@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abir Ashab Niloy</h1>
-<h3 align="center">Software Engineering Student | ML & Security Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Software Engineer | Security Researcher</h3>
 
 <p align="center">
   <a href="https://abir-ashab.github.io">🌐 Portfolio</a> •
