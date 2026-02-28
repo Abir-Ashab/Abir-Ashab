@@ -58,9 +58,3 @@ I'm a passionate Software Engineering student at the Institute of Information Te
 - 🔗 LinkedIn: [linkedin.com/in/abir-ashab-niloy](https://linkedin.com/in/abir-ashab-niloy)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abir-Ashab&show_icons=true&theme=default" alt="Abir's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Ashab&layout=compact&hide=css" alt="Top Languages" />
-</p>
